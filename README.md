@@ -9,7 +9,7 @@ bla bla
 
 - lavoro 1
 - lavoro 2
- lavoro 3
+- lavoro 3
 
 ## Contatti
 
